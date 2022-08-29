@@ -14,7 +14,7 @@ int main(){
          ++a;
          cout<<"the number is after pre "<<a<<endl;
          a++;
-         cout<<"the number after post"<<a<<"    "<<a++<<"we are using pre and post incrment:-"<<a<<endl;
+         cout<<"the number after post"<<a<<"          "<<a++<<"we are using pre and post incrment:-"<<a<<endl;
          a++;
          cout<<"now we are using decrement pre and post:-"<<a<<"   "<<--a<<"\nafter pre decrement:-"<<a--<<"\nafter post decerement"<<endl;
 
