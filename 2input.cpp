@@ -4,6 +4,7 @@ using namespace std;
 
 int main()
 {
+    //input lelo
     int x;
     cout << "enter a number:"<<endl;
     cin >> x;
