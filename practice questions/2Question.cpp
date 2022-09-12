@@ -23,8 +23,6 @@ The sum of 29 and 30 is : 59*/
       cout<<"\n the sum of two numbers is :-"<<c<<endl;
        cout<<"\n the subtraction is :-"<<d<<endl;
        cout<<"\n the multiplication is :-"<<e<<endl;
-
-
-
+           
     return 0;
 }
