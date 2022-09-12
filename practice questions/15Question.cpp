@@ -16,8 +16,5 @@ int main(){
 
     cout<<"The third angle of triangle is :-\t"<<c<<endl;
 
-    
-
-
     return 0;
 }
