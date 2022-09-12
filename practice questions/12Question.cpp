@@ -21,6 +21,8 @@ int main(){
       area = sqrt(semi_perimeter*(semi_perimeter-x)*(semi_perimeter-y)*(semi_perimeter-z));
 
       cout<<"The area of the triangle is :- "<<area<<endl;
+      
+      
 
 
     return 0;
