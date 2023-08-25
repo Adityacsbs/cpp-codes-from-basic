@@ -14,6 +14,7 @@ int main(){
         if(i==j){
           continue;
         }
+             
         cout<<n<<"*"<<i<<"="<<i*n<<endl;
        }
 
