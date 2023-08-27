@@ -12,6 +12,7 @@ int main()
     cin>>b;
 
     if(a>b){
+        
         cout<<"a is greater than b\n";
     }
     return 0;
